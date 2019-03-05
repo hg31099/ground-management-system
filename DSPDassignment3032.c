@@ -1,9 +1,9 @@
 //assumptions- total 20 grounds ,each ground can have maximum 5 sports,booking allowed for 1 month.
 /*struct date
 {
-	int day;
-	int month;
-	int year;
+	int day:
+	int months;
+	int years;
 }; */
 struct games
 {
